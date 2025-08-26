@@ -26,7 +26,7 @@ print(sol)
 
 ## Output:
 
-<img width="1509" height="429" alt="MFA Exp-2" src="https://github.com/user-attachments/assets/281b9ba3-51ff-4ab1-a85b-fe7235e65f34" />
+<img width="1920" height="1080" alt="MFA EXP--2" src="https://github.com/user-attachments/assets/e0456127-8f07-4273-9d27-1e1e96fe36c2" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
